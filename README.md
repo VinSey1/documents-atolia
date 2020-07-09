@@ -6,3 +6,4 @@
     - CV (SEYLLER_CV.pdf)
     - Lettre de motivation (SEYLLER_Lettre.pdf)
     - Contenu de la formation (LP-CDAD.pdf)
+    - ZIP contenant toutes les archives (SEYLLER_Documents.zip)
